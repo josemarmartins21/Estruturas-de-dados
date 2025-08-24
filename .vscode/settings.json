@@ -1,8 +1,9 @@
 {
     "java.project.sourcePaths": [
-        "src",
-        "listasligadas"
+        "listasligadas",
+        "aula03"
     ],
     "java.project.outputPath": "bin",
-    "java.project.referencedLibraries": []
+    "java.project.referencedLibraries": [],
+    "java.debug.settings.onBuildFailureProceed": true
 }
